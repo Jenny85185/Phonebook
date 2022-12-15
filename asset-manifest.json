@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Phonebook/static/css/main.60f18184.css",
+    "main.js": "/Phonebook/static/js/main.8d35d975.js",
+    "static/media/call_me.jpg": "/Phonebook/static/media/call_me.efd9e0b3b94fa38aef2c.jpg",
+    "index.html": "/Phonebook/index.html",
+    "main.60f18184.css.map": "/Phonebook/static/css/main.60f18184.css.map",
+    "main.8d35d975.js.map": "/Phonebook/static/js/main.8d35d975.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60f18184.css",
+    "static/js/main.8d35d975.js"
+  ]
+}
